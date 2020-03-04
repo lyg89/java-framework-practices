@@ -1,0 +1,8 @@
+.idea/
+*.iml
+target/
+.DS_Store
+.classpath
+.project
+.settings/
+src/main/resources/dubbo.properties
